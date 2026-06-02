@@ -2,7 +2,7 @@
 
 This project is an AI-based solution that automatically monitors student behavior in smart classrooms using computer vision technologies like YOLOv8 and MediaPipe. It detects activities such as sleeping, using mobile phones, inattentiveness, and sends real-time alerts to faculty via WhatsApp and Email with PDF reports.
 
-**GitHub Repo:** [student_activity_detection](https://github.com/manishaagangadevi/student_activity_detection.git)
+**GitHub Repo:** [student_activity_detection](https://github.com/nandithaa20/Student-Activity-Detection.git)
 
 ## Features
 
@@ -37,7 +37,7 @@ This project is an AI-based solution that automatically monitors student behavio
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/manishaagangadevi/student_activity_detection.git
+   https://github.com/nandithaa20/Student-Activity-Detection.git
    cd student_activity_detection
    
 2.Create and activate virtual environment:
